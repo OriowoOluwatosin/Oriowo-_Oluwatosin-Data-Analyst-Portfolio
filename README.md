@@ -11,9 +11,11 @@
   [My Experiences](my-experiences)
 
 ### Introduction
+---
 Hi, I'm Oluwatosin Oriowo! I have an analytical background in Biochemistry and currently, I am on track to completing my course in Data Analysis. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analysis as an entry-level data analyst.
 
 ### Tools Used in Learning
+---
 - Microsoft Excel ,  
   1. For Data Cleaning
   2. For Analysis
@@ -30,6 +32,7 @@ Hi, I'm Oluwatosin Oriowo! I have an analytical background in Biochemistry and c
   2. For Connecting to Data sources 
 
 ### My Experiences
+---
 During my studies at The Incubator Hub, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I gained experience in;
 - Data management through data entry fundamentals,  
 - Statistical analysis using Excel Functions
