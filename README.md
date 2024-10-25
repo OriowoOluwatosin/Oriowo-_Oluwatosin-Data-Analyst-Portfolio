@@ -1,8 +1,9 @@
 # Oriowo-_Oluwatosin-Data-Analyst-Portfolio
 
 ### Description Of The Journey: Transitioning Into Tech As A Data Analyst
-
+-------------------------------------------------------------------------
 ### Outline 
+------------
   [Introduction](#introduction)
 
   [Tools Used in Learning](#tools-used-in-cleaning)
