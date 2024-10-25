@@ -6,10 +6,10 @@
 Hi, I'm Oluwatosin Oriowo! I have an analytical background in Biochemistry and currently, I am on track to completing my course in Data Analysis. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analysis as an entry-level data analyst.
 
 ### Tools Used in Learning
-Microsoft Excel for Data Cleaning, Analysis and Visualization
-SQL- Structured Query Language for Quering Data
-GitHub for Portfolio Building
-Power BI for Data Entry and Connecting to Data sources
+- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- SQL- Structured Query Language for Quering Data
+- GitHub for Portfolio Building
+- Power BI for Data Entry and Connecting to Data sources
 
 ### My Experiences
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I gained experience in;
