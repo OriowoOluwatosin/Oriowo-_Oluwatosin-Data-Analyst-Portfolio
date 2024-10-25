@@ -36,5 +36,6 @@ The Power BI experience was also not left out because i learned
 - Power BI fundamentals
 - Power Query For Data Transformation
 All of these experiences, I believe will be valuable assets in my role as a data analysts.
+  
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
