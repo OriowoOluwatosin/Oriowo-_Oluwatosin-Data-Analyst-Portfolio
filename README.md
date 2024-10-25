@@ -2,6 +2,13 @@
 
 ### Description Of The Journey: Transitioning Into Tech As A Data Analyst
 
+### Outline 
+  [Introduction](#introduction)
+
+  [Tools Used in Learning](#tools-used-in-cleaning)
+
+  [My Experiences](my-experiences)
+
 ### Introduction
 Hi, I'm Oluwatosin Oriowo! I have an analytical background in Biochemistry and currently, I am on track to completing my course in Data Analysis. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analysis as an entry-level data analyst.
 
